@@ -11,4 +11,4 @@ Keterangan Pertemuan:
 
 * Pertemuan ke-7: mengenai [**Seleksi Fitur**](https://github.com/mikaelaldy/metodologi-data-science/tree/main/Pertemuan_7).
 
-* Pertemuan ke-8: mengenai [**Imputasi ( mengganti data yang hilang**](https://github.com/mikaelaldy/metodologi-data-science/tree/main/Pertemuan_8).
+* Pertemuan ke-8: mengenai [**Imputasi ( mengganti data yang hilang)**](https://github.com/mikaelaldy/metodologi-data-science/tree/main/Pertemuan_8).
